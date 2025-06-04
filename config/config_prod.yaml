@@ -1,0 +1,5 @@
+database:
+  host: internal-db.prod.local
+  port: 5432
+  user: admin
+  password: ${DB_PASSWORD}
